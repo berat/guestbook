@@ -1,6 +1,6 @@
 import { useState } from "react";
 // components
-import { Form, Card } from "./components/";
+import { Card, Form } from "./components/";
 
 function App() {
   const [comments, setComments] = useState([]);

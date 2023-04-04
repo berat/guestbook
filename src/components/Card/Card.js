@@ -7,7 +7,7 @@ const Card = ({ comments, setComments }) => {
   };
 
   return comments.map(({ id, name, comment }) => (
-    <article>
+    <article key={id}>
       <header>
         <b>{name}</b> <button onClick={() => remove(id)}>sil</button>
       </header>
