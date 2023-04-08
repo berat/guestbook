@@ -3,6 +3,8 @@
   
 # Guestbook
 
+Blog adresi: https://beratbozkurt.net/blog/react-uygulamasina-test-yazalim-2
+
 Kullanıcıların yorum atabildiği basit bir form tasarımı. Ana odak basit bir uygulamanın test yazılması. [Demoya gitmek için tıklayabilirsin.](https://guestbook-ten-gray.vercel.app/)
 
 ## Teknolojiler
